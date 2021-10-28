@@ -1,4 +1,4 @@
-const slides = document.querySelectorAll('slide')
+const slides = document.querySelectorAll('.slide')
 
 for (const slide of slides) {
     slide.addEventListener('click', () => {
